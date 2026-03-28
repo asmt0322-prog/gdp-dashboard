@@ -22,4 +22,4 @@ if st.button('Send'):
         # Simulated response
         st.session_state['chat_history'].append('Bot: This is a simulated response.')
         # Clear input
-        st.experimental_rerun()
+        st.experimental_rerun()pip install -r requirements.1
